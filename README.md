@@ -3,7 +3,7 @@
 viewPager嵌套viewPager
 
 tip：
-1. supportFragmentManager ：activity中的fragment的管理者
+1. supportFragmentManager ：activity中的fragment的管理者；
    childFragmentManager ：fragment中的fragment的管理者
    
 2. BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT 
